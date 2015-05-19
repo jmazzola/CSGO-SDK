@@ -16,6 +16,8 @@
 #include "offsets.h"
 #include "logger.h"
 
+// Make sure to add the SDK folder to the additional dependancies
+
 // Public
 #include "public\\tier0\\wchartypes.h"
 #include "public\\cdll_int.h"
@@ -94,6 +96,7 @@
 // Utils
 #include "public\\tier1\\utlvector.h"
 
+// Make sure to add the SDK folder to the library directories
 #pragma comment(lib, "hl2sdk-csgo\\lib\\public\\tier0.lib")
 #pragma comment(lib, "hl2sdk-csgo\\lib\\public\\tier1.lib")
 #pragma comment(lib, "hl2sdk-csgo\\lib\\public\\tier2.lib")
