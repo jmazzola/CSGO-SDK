@@ -13,9 +13,6 @@
 #include <iostream>
 #include <sstream>
 
-#include "offsets.h"
-#include "logger.h"
-
 // Make sure to add the SDK folder to the additional dependancies
 
 // Public
