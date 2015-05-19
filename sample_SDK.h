@@ -13,6 +13,8 @@
 #include <iostream>
 #include <sstream>
 
+#include "offsets.h"
+
 // Make sure to add the SDK folder to the additional dependancies
 
 // Public
