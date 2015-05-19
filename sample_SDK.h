@@ -13,9 +13,10 @@
 #include <iostream>
 #include <sstream>
 
+// Needed for C_BaseEntity
 #include "offsets.h"
 
-// Make sure to add the SDK folder to the additional dependancies
+/**** Make sure to add the SDK folder to the additional dependancies ****/
 
 // Public
 #include "public\\tier0\\wchartypes.h"
